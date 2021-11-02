@@ -1,3 +1,6 @@
+# CODE
+
+
 int* twoSum(int* nums, int numsSize, int target, int* returnSize){
 *returnSize=2;
 int *arr=(int *)malloc((*returnSize)*sizeof(int));
